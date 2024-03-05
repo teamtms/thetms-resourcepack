@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "thetms/music_discs/music_disc_groupblood"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "thetms/music_discs/music_disc_shamanrussha"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "thetms/music_discs/music_disc_omfghello"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "thetms/music_discs/music_disc_tancpol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "thetms/music_discs/music_disc_central"
+        }
+    ]
+}

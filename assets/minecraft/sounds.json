@@ -1,0 +1,42 @@
+{
+    "music_disc.groupblood": {
+        "sounds": [
+            {
+                "name": "records/groupblood",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.shamanrussha": {
+        "sounds": [
+            {
+                "name": "records/shamanrussha",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.omfghello": {
+        "sounds": [
+            {
+                "name": "records/omfghello",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.tancpol": {
+        "sounds": [
+            {
+                "name": "records/tancpol",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.central": {
+        "sounds": [
+            {
+                "name": "records/central",
+                "stream": true
+            }
+        ]
+    }
+}
