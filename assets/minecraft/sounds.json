@@ -38,5 +38,14 @@
                 "stream": true
             }
         ]
+    },
+    "music_disc.drhouseintro": {
+        "sounds": [
+            {
+                "name": "records/drhouseintro",
+                "stream": true
+            }
+        ]
     }
+    
 }
