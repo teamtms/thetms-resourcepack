@@ -8,18 +8,18 @@
         { "predicate": { "custom_model_data": 10002 }, "model": "thetms/banknote/2_banknote" },
         { "predicate": { "custom_model_data": 10005 }, "model": "thetms/banknote/5_banknote" },
         { "predicate": { "custom_model_data": 100010 }, "model": "thetms/banknote/10_banknote" },
+        { "predicate": { "custom_model_data": 100011 }, "model": "thetms/card/black_card" },
+        { "predicate": { "custom_model_data": 100012 }, "model": "thetms/card/white_card" },
+        { "predicate": { "custom_model_data": 100013 }, "model": "thetms/card/business_card" },
+        { "predicate": { "custom_model_data": 100014 }, "model": "thetms/card/vip_card" },
+        { "predicate": { "custom_model_data": 100015 }, "model": "thetms/mics/ticket" },
         { "predicate": { "custom_model_data": 100050 }, "model": "thetms/banknote/50_banknote" },
         { "predicate": { "custom_model_data": 1000100 }, "model": "thetms/banknote/100_banknote" },
         { "predicate": { "custom_model_data": 1000200 }, "model": "thetms/banknote/200_banknote" },
         { "predicate": { "custom_model_data": 1000500 }, "model": "thetms/banknote/500_banknote" },
         { "predicate": { "custom_model_data": 10001000 }, "model": "thetms/banknote/1000_banknote" },
         { "predicate": { "custom_model_data": 10002000 }, "model": "thetms/banknote/2000_banknote" },
-        { "predicate": { "custom_model_data": 10005000 }, "model": "thetms/banknote/5000_banknote" },
-        { "predicate": { "custom_model_data": 100000001 }, "model": "thetms/card/black_card" },
-        { "predicate": { "custom_model_data": 100000002 }, "model": "thetms/card/white_card" },
-        { "predicate": { "custom_model_data": 100000003 }, "model": "thetms/card/business_card" },
-        { "predicate": { "custom_model_data": 100000004 }, "model": "thetms/card/vip_card" },
-        { "predicate": { "custom_model_data": 100000005 }, "model": "thetms/mics/ticket" }
+        { "predicate": { "custom_model_data": 10005000 }, "model": "thetms/banknote/5000_banknote" }
         
     ]
 }
