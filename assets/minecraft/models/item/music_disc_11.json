@@ -39,6 +39,24 @@
                 "custom_model_data": 6
             },
             "model": "thetms/music_discs/music_disc_drhouseintro"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "thetms/music_discs/music_disc_drhousesoundtack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "thetms/music_discs/music_disc_perfectworld"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "thetms/music_discs/music_disc_voiceoftime"
         }
     ]
 }

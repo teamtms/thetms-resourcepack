@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_discs/music_disc_perfectworld"
+    }
+}
