@@ -15,11 +15,11 @@
         { "predicate": { "custom_model_data": 10001000 }, "model": "thetms/banknote/1000_banknote" },
         { "predicate": { "custom_model_data": 10002000 }, "model": "thetms/banknote/2000_banknote" },
         { "predicate": { "custom_model_data": 10005000 }, "model": "thetms/banknote/5000_banknote" },
-        { "predicate": { "custom_model_data": 100011 }, "model": "thetms/card/black_card" },
-        { "predicate": { "custom_model_data": 100012 }, "model": "thetms/card/white_card" },
-        { "predicate": { "custom_model_data": 100013 }, "model": "thetms/card/business_card" },
-        { "predicate": { "custom_model_data": 100014 }, "model": "thetms/card/vip_card" },
-        { "predicate": { "custom_model_data": 1001 }, "model": "thetms/mics/ticket" }
+        { "predicate": { "custom_model_data": 10001 }, "model": "thetms/card/black_card" },
+        { "predicate": { "custom_model_data": 10002 }, "model": "thetms/card/white_card" },
+        { "predicate": { "custom_model_data": 10003 }, "model": "thetms/card/business_card" },
+        { "predicate": { "custom_model_data": 10004 }, "model": "thetms/card/vip_card" },
+        { "predicate": { "custom_model_data": 10005 }, "model": "thetms/mics/ticket" }
         
     ]
 }
