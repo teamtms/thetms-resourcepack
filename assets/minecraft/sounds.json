@@ -1,16 +1,48 @@
 {
-    "music_disc.groupblood": {
+    "music_disc.central": {
         "sounds": [
             {
-                "name": "records/groupblood",
+                "name": "records/central",
                 "stream": true
             }
         ]
     },
-    "music_disc.shamanrussha": {
+    "music_disc.doctori": {
         "sounds": [
             {
-                "name": "records/shamanrussha",
+                "name": "records/doctori",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.doctorstk": {
+        "sounds": [
+            {
+                "name": "records/doctorstk",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.groupb": {
+        "sounds": [
+            {
+                "name": "records/groupb",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.housei": {
+        "sounds": [
+            {
+                "name": "records/housei",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.housestk": {
+        "sounds": [
+            {
+                "name": "records/housestk",
                 "stream": true
             }
         ]
@@ -23,50 +55,34 @@
             }
         ]
     },
+    "music_disc.rightw": {
+        "sounds": [
+            {
+                "name": "records/rightw",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.russian": {
+        "sounds": [
+            {
+                "name": "records/russian",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sunrise": {
+        "sounds": [
+            {
+                "name": "records/sunrise",
+                "stream": true
+            }
+        ]
+    },
     "music_disc.tancpol": {
         "sounds": [
             {
                 "name": "records/tancpol",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.central": {
-        "sounds": [
-            {
-                "name": "records/central",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.drhouseintro": {
-        "sounds": [
-            {
-                "name": "records/drhouseintro",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.drhousesoundtack": {
-        "sounds": [
-            {
-                "name": "records/drhousesoundtack",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.perfectworld": {
-        "sounds": [
-            {
-                "name": "records/perfectworld",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.voiceoftime": {
-        "sounds": [
-            {
-                "name": "records/voiceoftime",
                 "stream": true
             }
         ]

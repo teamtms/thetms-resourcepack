@@ -8,55 +8,67 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "thetms/music_discs/music_disc_groupblood"
+            "model": "thetms/music_disc/music_disc_central"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "thetms/music_discs/music_disc_shamanrussha"
+            "model": "thetms/music_disc/music_disc_doctori"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "thetms/music_discs/music_disc_omfghello"
+            "model": "thetms/music_disc/music_disc_doctorstk"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "thetms/music_discs/music_disc_tancpol"
+            "model": "thetms/music_disc/music_disc_groupb"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "thetms/music_discs/music_disc_central"
+            "model": "thetms/music_disc/music_disc_housei"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "thetms/music_discs/music_disc_drhouseintro"
+            "model": "thetms/music_disc/music_disc_housestk"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "thetms/music_discs/music_disc_drhousesoundtack"
+            "model": "thetms/music_disc/music_disc_omfghello"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "thetms/music_discs/music_disc_perfectworld"
+            "model": "thetms/music_disc/music_disc_rightw"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "thetms/music_discs/music_disc_voiceoftime"
+            "model": "thetms/music_disc/music_disc_russian"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "thetms/music_disc/music_disc_sunrise"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "thetms/music_disc/music_disc_tancpol"
         }
     ]
 }
